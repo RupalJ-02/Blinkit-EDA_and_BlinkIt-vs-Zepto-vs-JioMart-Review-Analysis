@@ -16,6 +16,7 @@ This project performs sentiment analysis on e-commerce reviews using a Long Shor
   * [Training and Evaluation](#training-and-evaluation)
   * [Prediction](#prediction)
 * [Results](#results)
+* [Power BI Dashboard](#PowerBIDashboard)
 * [Conclusion](#conclusion)
 * [Dependencies](#dependencies)
 * [Usage](#usage)
@@ -90,6 +91,10 @@ This helps them "understand" the overall sentiment of text.
 ## Results
 
 The project's results show the effectiveness of the LSTM model in classifying e-commerce reviews with reasonable accuracy. The specific results, including the achieved accuracy, precision, and recall, are presented in the notebook.
+
+## Power BI Dashboard
+
+In addition to the sentiment analysis results presented in the notebook, this project also includes an interactive Power BI dashboard to visualize the key findings. The dashboard provides insights into the sentiment distribution, average rating, and other metrics across the three e-commerce platforms (Blinkit, Zepto, and Jiomart).
 
 ## Conclusion
 

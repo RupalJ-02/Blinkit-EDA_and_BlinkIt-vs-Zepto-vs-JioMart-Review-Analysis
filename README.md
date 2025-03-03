@@ -91,15 +91,23 @@ This helps them "understand" the overall sentiment of text.
 ## Results
 
 The project's results show the effectiveness of the LSTM model in classifying e-commerce reviews with reasonable accuracy. The specific results, including the achieved accuracy, precision, and recall, are presented in the notebook.
+
 Accuracy: 87.6%
+
 Precision: 0.8
+
 Recall: 0.9
+
 F1 Score: 0.9
+
 Prediction test example-
+
 example_review = "I love the fast delivery and great service!"
 print(example_review)
 print(f"{predict_review(example_review, model, tokenizer, label_encoder, maxlen)}\n")
+
 output-
+
 I love the fast delivery and great service!
 1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 38ms/step
 Sentiment: positive, Confidence: 0.97

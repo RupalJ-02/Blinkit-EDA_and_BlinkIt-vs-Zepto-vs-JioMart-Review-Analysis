@@ -1,5 +1,5 @@
 # Blinkit-EDA_and_BlinkIt-vs-Zepto-vs-JioMart-Review-Analysis
-Analyzing Blinkit's sales performance, customer satisfaction and inventory distribution and A LSTM Sentiment Analysis Project on E-Commerce Reviews (Zepto vs Jiomart vs Blinkit).
+Analyzing Blinkit's sales performance, customer satisfaction and inventory distribution and a LSTM Sentiment Analysis Project on E-Commerce Reviews (Zepto vs Jiomart vs Blinkit).
 
 # PART-A - Blinkit Data Analysis Dashboard
 

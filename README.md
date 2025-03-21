@@ -1,6 +1,20 @@
-# BlinkIt-vs-Zepto-vs-JioMart-Review-Analysis
-A LSTM Sentiment Analysis Project on E-Commerce Reviews (Zepto vs Jiomart vs Blinkit).
-# LSTM Sentiment Analysis on Blinkit, Zepto, and Jiomart Reviews
+# Blinkit-EDA_and_BlinkIt-vs-Zepto-vs-JioMart-Review-Analysis
+Analyzing Blinkit's sales performance, customer satisfaction and inventory distribution and A LSTM Sentiment Analysis Project on E-Commerce Reviews (Zepto vs Jiomart vs Blinkit).
+
+# PART-A - Blinkit Data Analysis Dashboard
+
+## Project Overview
+This project presents a comprehensive Power BI dashboard for analyzing Blinkit's sales performance, customer satisfaction, and inventory distribution. The dashboard provides key insights and opportunities for optimization using various KPIs and visualizations.
+
+## Key Performance Indicators (KPIs)
+The dashboard focuses on the following primary KPIs:
+
+* Total Sales: Overall revenue generated from all items sold ($1.20M)
+* Average Sales: Average revenue per sale ($141)
+* Number of Items: Total count of different items sold (8523)
+* Average Rating: Average customer rating for items sold (3.9 out of 5)
+
+# PART-B -LSTM Sentiment Analysis on Blinkit, Zepto, and Jiomart Reviews
 
 This project performs sentiment analysis on e-commerce reviews using a Long Short-Term Memory (LSTM) model. The focus is on reviews from three specific platforms: Zepto, Jiomart, and Blinkit.
 

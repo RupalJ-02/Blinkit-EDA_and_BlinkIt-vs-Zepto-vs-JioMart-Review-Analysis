@@ -39,7 +39,7 @@ Right Section: Outlet Analysis
 * No. of Items: The number of items sold in each outlet type.
 * Avg Sales: The average sales per transaction for each outlet type.
 * Avg Rating: The average customer rating for each outlet type.
-* Item Visibility: Likely represents the visibility or popularity of items in each outlet type.
+* Item Visibility: Represents the visibility or popularity of items in each outlet type.
 
 Key Insights from the Dashboard:
 
